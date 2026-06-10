@@ -1,0 +1,13 @@
+.list{
+    display: flex;
+    
+}
+
+.list img{
+    height: 50px;
+    width: 50px;
+}
+
+.list button{
+    padding: 0;
+}
